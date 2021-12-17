@@ -2,7 +2,6 @@
   "name": "@worldql/client",
   "version": "0.0.8",
   "description": "TypeScript Client for interacting with WorldQL over WebSockets",
-  "type": "module",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "sideEffects": false,
