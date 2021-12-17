@@ -7,7 +7,7 @@
     "allowSyntheticDefaultImports": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "module": "es2020",
+    "module": "commonjs",
     "moduleResolution": "node",
     "removeComments": false,
     "downlevelIteration": true,
